@@ -1,0 +1,9 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+server.log
+server.err
+CONTEXT.md
+evaluation/probe_test.py
+evaluation/full_eval.py
