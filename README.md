@@ -1,3 +1,13 @@
+---
+title: SHL Assessment Agent
+emoji: 🔍
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+---
+
+
 # SHL Assessment Recommendation Agent
 
 Conversational agent that recommends SHL psychometric assessments to hiring managers.
