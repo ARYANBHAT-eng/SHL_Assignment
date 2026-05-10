@@ -1,0 +1,2641 @@
+[
+  {
+    "entity_id": "4302",
+    "product_family": "Global Skills",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3827",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4094",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4099",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4018",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4016",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4165",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4178",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4187",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4179",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4188",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4168",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4019",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3778",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4069",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4004",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4223",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4159",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4311",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4028",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4160",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4153",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4021",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4030",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4011",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4073",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4075",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4022",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4115",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4023",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4017",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3786",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4219",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3980",
+    "product_family": "Automata",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3981",
+    "product_family": "Automata",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3984",
+    "product_family": "Automata",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3982",
+    "product_family": "Automata",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3983",
+    "product_family": "Automata",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4222",
+    "product_family": "Automata",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3985",
+    "product_family": "Automata",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4229",
+    "product_family": "Automata",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4026",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4025",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3988",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4206",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4149",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4161",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4036",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4037",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "244",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "536",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4038",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4039",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4122",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4077",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4044",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4012",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4024",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4150",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4045",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4046",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4104",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4189",
+    "product_family": "Contact Center",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4296",
+    "product_family": "Contact Center",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4034",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4032",
+    "product_family": "Entry Level",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3458",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4052",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4050",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3933",
+    "product_family": "Contact Center",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3931",
+    "product_family": "Contact Center",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4053",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4186",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "778",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "779",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "785",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4013",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "56",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "731",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4162",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4101",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4003",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4221",
+    "product_family": "Digital Readiness",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4239",
+    "product_family": "Digital Readiness",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4059",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4060",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4062",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "1102",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4148",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4009",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4001",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4031",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4002",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4000",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4139",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4180",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4063",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3856",
+    "product_family": "Enterprise Leadership",
+    "is_legacy": true,
+    "version_preference": 2,
+    "is_report": false
+  },
+  {
+    "entity_id": "4287",
+    "product_family": "Enterprise Leadership",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "3934",
+    "product_family": "Entry Level",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3939",
+    "product_family": "Entry Level",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3935",
+    "product_family": "Entry Level",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3936",
+    "product_family": "Entry Level",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3937",
+    "product_family": "Entry Level",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3938",
+    "product_family": "Entry Level",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4065",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "743",
+    "product_family": "Scenarios",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3849",
+    "product_family": "Scenarios",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3899",
+    "product_family": "Scenarios",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4127",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "380",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "381",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3992",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4083",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4067",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "382",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "383",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4090",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4071",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4072",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4113",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4043",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4048",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4125",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4066",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4078",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4301",
+    "product_family": "Global Skills",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "741",
+    "product_family": "Scenarios",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3900",
+    "product_family": "Scenarios",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3901",
+    "product_family": "Scenarios",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4074",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "331",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3845",
+    "product_family": "HiPo",
+    "is_legacy": true,
+    "version_preference": 2,
+    "is_report": false
+  },
+  {
+    "entity_id": "4284",
+    "product_family": "HiPo",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "4285",
+    "product_family": "HiPo",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "4076",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4080",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4081",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3999",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4169",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4155",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4005",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4054",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4055",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4007",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "249",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "333",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4102",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4040",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "88",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4084",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4158",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4056",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3809",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4033",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3989",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4086",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4085",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4087",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4152",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3990",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4299",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "205",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4170",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "742",
+    "product_family": "Scenarios",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3903",
+    "product_family": "Scenarios",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3902",
+    "product_family": "Scenarios",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3904",
+    "product_family": "Scenarios",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4157",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4291",
+    "product_family": "Focus 8.0",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4293",
+    "product_family": "Focus 8.0",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4295",
+    "product_family": "Focus 8.0",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4292",
+    "product_family": "Focus 8.0",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4294",
+    "product_family": "Focus 8.0",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4008",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4089",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4006",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4176",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4058",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4119",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3951",
+    "product_family": "MFS 360",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3950",
+    "product_family": "MFS 360",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3949",
+    "product_family": "MFS 360",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3948",
+    "product_family": "MFS 360",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4027",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4091",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4092",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4208",
+    "product_family": "Microsoft Office",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4207",
+    "product_family": "Microsoft Office",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3785",
+    "product_family": "Microsoft Office",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4212",
+    "product_family": "Microsoft Office",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3789",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3807",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4211",
+    "product_family": "Microsoft Office",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4210",
+    "product_family": "Microsoft Office",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4047",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4093",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4174",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4096",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4010",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "724",
+    "product_family": "MQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "1308",
+    "product_family": "MQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "1306",
+    "product_family": "MQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "1309",
+    "product_family": "MQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "1048",
+    "product_family": "MQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4015",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3993",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3995",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4193",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4097",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3994",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4098",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "615",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4100",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3997",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4041",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "720",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4116",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "727",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4298",
+    "product_family": "OPQ",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "748",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "749",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "750",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4300",
+    "product_family": "OPQ",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "752",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "754",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "753",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4307",
+    "product_family": "OPQ",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "1050",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "1060",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "1059",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "1058",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "1061",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "756",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "757",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 2,
+    "is_report": true
+  },
+  {
+    "entity_id": "4286",
+    "product_family": "OPQ",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "758",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 2,
+    "is_report": true
+  },
+  {
+    "entity_id": "4289",
+    "product_family": "OPQ",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "1067",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "759",
+    "product_family": "OPQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4106",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4105",
+    "product_family": "Entry Level",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4145",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4156",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4154",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4107",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3998",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4108",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4109",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4070",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4110",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4088",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4114",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4061",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4111",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4112",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4103",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3746",
+    "product_family": "PJM",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3484",
+    "product_family": "PJM",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4042",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4118",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4117",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4095",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4121",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4120",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "219",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3769",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "393",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4123",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4124",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4177",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3472",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "543",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3942",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4204",
+    "product_family": "RemoteWorkQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4202",
+    "product_family": "RemoteWorkQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4203",
+    "product_family": "RemoteWorkQ",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "4126",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "697",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "395",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4129",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4128",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3932",
+    "product_family": "Contact Center",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3930",
+    "product_family": "Contact Center",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "726",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "725",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4230",
+    "product_family": "Sales Transformation",
+    "is_legacy": true,
+    "version_preference": 2,
+    "is_report": false
+  },
+  {
+    "entity_id": "4283",
+    "product_family": "Sales Transformation",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "4233",
+    "product_family": "Sales Transformation",
+    "is_legacy": true,
+    "version_preference": 2,
+    "is_report": false
+  },
+  {
+    "entity_id": "4288",
+    "product_family": "Sales Transformation",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "4130",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4131",
+    "product_family": "SAP",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4132",
+    "product_family": "SAP",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4133",
+    "product_family": "SAP",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4136",
+    "product_family": "SAP",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4134",
+    "product_family": "SAP",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4135",
+    "product_family": "SAP",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4082",
+    "product_family": "SAP",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4137",
+    "product_family": "SAP",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4064",
+    "product_family": "SAP",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4171",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4138",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4140",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3968",
+    "product_family": "Verify Interactive",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3947",
+    "product_family": "Verify Interactive",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3946",
+    "product_family": "Verify Interactive",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3971",
+    "product_family": "Verify Interactive",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3972",
+    "product_family": "Verify Interactive",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4141",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4209",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4218",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4205",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4014",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "116",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4142",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4051",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "40",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4143",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4144",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4035",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4282",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4146",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4147",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3996",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4151",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4216",
+    "product_family": "SVAR",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3986",
+    "product_family": "SVAR",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4217",
+    "product_family": "SVAR",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3987",
+    "product_family": "SVAR",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4197",
+    "product_family": "SVAR",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4198",
+    "product_family": "SVAR",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4199",
+    "product_family": "SVAR",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4200",
+    "product_family": "SVAR",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4049",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4079",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4020",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4167",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "251",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "336",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4201",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4175",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "735",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "734",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "733",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4172",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4173",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3733",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3941",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3908",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3734",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3836",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3745",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3768",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3906",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3940",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3945",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3970",
+    "product_family": "Verify",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "3969",
+    "product_family": "Verify Interactive",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "3976",
+    "product_family": "Verify Interactive",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "3974",
+    "product_family": "Verify Interactive",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": true
+  },
+  {
+    "entity_id": "4290",
+    "product_family": "Verify Interactive",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4215",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4163",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "399",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "400",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4164",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "3459",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "3991",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4068",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4183",
+    "product_family": "WriteX",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4184",
+    "product_family": "WriteX",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4185",
+    "product_family": "WriteX",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "17",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "18",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": false
+  },
+  {
+    "entity_id": "4166",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 3,
+    "is_report": false
+  },
+  {
+    "entity_id": "4297",
+    "product_family": "Independent",
+    "is_legacy": false,
+    "version_preference": 1,
+    "is_report": true
+  },
+  {
+    "entity_id": "744",
+    "product_family": "MFS 360",
+    "is_legacy": true,
+    "version_preference": 1,
+    "is_report": false
+  }
+]
