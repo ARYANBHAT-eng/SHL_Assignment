@@ -324,9 +324,11 @@ def _apply_refinements(shortlist: list[dict], ctx: dict) -> list[dict]:
 
     if action == "remove" and targets:
         targets_lower = [t.lower() for t in targets]
+        target_words = [w for t in targets_lower for w in t.split() if len(w) > 3]
         shortlist = [
             p for p in shortlist
             if not any(t in p["name"].lower() for t in targets_lower)
+            and not any(w in p["name"].lower() for w in target_words)
         ]
 
     elif action == "add" and targets:
@@ -350,21 +352,57 @@ def _validate_shortlist(shortlist: list[dict]) -> list[dict]:
 
 
 def _llm_reply(user_prompt: str) -> str:
-    response = next(_client_cycle).chat.completions.create(
-        model=_MODEL_ID,
-        messages=[
-            {"role": "system", "content": _LLM_SYSTEM_PROMPT},
-            {"role": "user", "content": user_prompt},
-        ],
-        temperature=0,
-        max_tokens=1000,
-    )
-    return response.choices[0].message.content.strip()
+    try:
+        response = next(_client_cycle).chat.completions.create(
+            model=_MODEL_ID,
+            messages=[
+                {"role": "system", "content": _LLM_SYSTEM_PROMPT},
+                {"role": "user", "content": user_prompt},
+            ],
+            temperature=0,
+            max_tokens=1000,
+        )
+        return response.choices[0].message.content.strip()
+    except Exception:
+        return "Here are my recommendations based on the information provided."
 
 
 def process_chat(messages: list[dict]) -> dict:
     ctx = extract_context(messages)
     ctx["confidence_score"] = _recalc_confidence(ctx)
+
+    # Deterministic refinement fallback — catches cases where LLM misses refinement_action
+    if ctx.get("refinement_action") is None and len(messages) >= 3:
+        last_msg = messages[-1]["content"].lower()
+
+        # Detect remove intent
+        for kw in ["remove", "drop", "take out", "exclude", "get rid of"]:
+            if kw in last_msg:
+                ctx["refinement_action"] = "remove"
+                break
+
+        # Detect add intent
+        if ctx.get("refinement_action") is None:
+            for kw in ["add ", "include ", "also include ", "throw in "]:
+                if kw in last_msg:
+                    ctx["refinement_action"] = "add"
+                    break
+
+        # Extract target if action detected but LLM missed the target
+        if ctx.get("refinement_action") and not ctx.get("refinement_target"):
+            action_kw = None
+            for kw in ["remove", "drop", "take out", "exclude", "get rid of", "add", "include", "throw in"]:
+                if kw in last_msg:
+                    action_kw = kw
+                    break
+            if action_kw:
+                after = last_msg.split(action_kw, 1)[1].strip()
+                for filler in ["the ", "a ", "an ", "from the list", "from the shortlist", "from list", "from recommendations", "please", "as well", "too", "if possible"]:
+                    after = after.replace(filler, "")
+                after = after.strip().rstrip(".,!?")
+                if after:
+                    ctx["refinement_target"] = [after]
+
     state = _detect_state(ctx, messages)
     archetype = _detect_archetype(ctx)
 

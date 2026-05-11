@@ -81,17 +81,16 @@ def extract_context(messages: list[dict]) -> dict:
     groq_messages = [{"role": "system", "content": _SYSTEM_INSTRUCTION}]
     groq_messages.extend({"role": msg["role"], "content": msg["content"]} for msg in messages)
 
-    response = next(_client_cycle).chat.completions.create(
-        model=_MODEL_ID,
-        messages=groq_messages,
-        temperature=0,
-        max_tokens=1000,
-        response_format={"type": "json_object"},
-    )
-
     try:
+        response = next(_client_cycle).chat.completions.create(
+            model=_MODEL_ID,
+            messages=groq_messages,
+            temperature=0,
+            max_tokens=1000,
+            response_format={"type": "json_object"},
+        )
         return json.loads(response.choices[0].message.content)
-    except (json.JSONDecodeError, ValueError):
+    except Exception:
         return dict(_SAFE_DEFAULT)
 
 

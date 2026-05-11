@@ -196,7 +196,7 @@ def hybrid_search(
     filter_languages: list[str] | None = None,
     exclude_roles: list[str] | None = None,
 ) -> list[dict]:
-    search_limit = min(len(CATALOG), max(top_k * 3, top_k))
+    search_limit = min(len(CATALOG), max(top_k * 5, top_k))
 
     query_embedding = _embed_texts([query])
     faiss_scores, faiss_positions = FAISS_INDEX.search(query_embedding, search_limit)
